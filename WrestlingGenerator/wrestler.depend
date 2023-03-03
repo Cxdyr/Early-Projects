@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1668561673 source:c:\users\codyr\desktop\games & designs & photos\personal coding projects\wrestler\main.cpp
+	<iostream>
+	"wrestler.h"
+	<string>
+	"team.h"
+	<fstream>
+	<ostream>
+	<random>
+	<ctime>
+	<team.h>
+
+1668561673 c:\users\codyr\desktop\games & designs & photos\personal coding projects\wrestler\include\wrestler.h
+	<string>
+	<random>
+	<ctime>
+
+1668561673 c:\users\codyr\desktop\games & designs & photos\personal coding projects\wrestler\include\team.h
+	"wrestler.h"
+
+1668561673 source:c:\users\codyr\desktop\games & designs & photos\personal coding projects\wrestler\src\team.cpp
+	<iostream>
+	"wrestler.h"
+	"team.h"
+	<string>
+	<fstream>
+	<ostream>
+	<random>
+	<ctime>
+	<team.h>
+
+1668561673 source:c:\users\codyr\desktop\games & designs & photos\personal coding projects\wrestler\src\wrestler.cpp
+	"wrestler.h"
+	<iostream>
+	<random>
+	<ctime>
+
+1668561673 source:c:\users\codyr\desktop\university applications & work\school work - past semesters\cs250\wrestler\src\wrestler.cpp
+	"wrestler.h"
+	<iostream>
+	<random>
+	<ctime>
+
+1677066395 c:\users\codyr\desktop\university applications & work\school work - past semesters\cs250\wrestler\include\wrestler.h
+	<string>
+	<random>
+	<ctime>
+
+1677066313 source:c:\users\codyr\desktop\university applications & work\school work - past semesters\cs250\wrestler\main.cpp
+	<iostream>
+	"wrestler.h"
+	<string>
+	"team.h"
+	<fstream>
+	<ostream>
+	<random>
+	<ctime>
+	<team.h>
+
+1668561673 c:\users\codyr\desktop\university applications & work\school work - past semesters\cs250\wrestler\include\team.h
+	"wrestler.h"
+
+1677066313 source:c:\users\codyr\desktop\university applications & work\school work - past semesters\cs250\wrestler\src\team.cpp
+	<iostream>
+	"wrestler.h"
+	"team.h"
+	<string>
+	<fstream>
+	<ostream>
+	<random>
+	<ctime>
+	<team.h>
+
