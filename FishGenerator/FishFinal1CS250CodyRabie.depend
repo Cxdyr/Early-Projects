@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1670275005 source:c:\users\codyr\desktop\fishfinal1cs250codyrabie\src\fish.cpp
+	"Fish.h"
+	<iostream>
+
+1670267263 c:\users\codyr\desktop\fishfinal1cs250codyrabie\include\fish.h
+
+1670278391 source:c:\users\codyr\desktop\fishfinal1cs250codyrabie\main.cpp
+	<iostream>
+	<random>
+	<ctime>
+	"Fish.h"
+
