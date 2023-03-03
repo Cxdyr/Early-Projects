@@ -288,7 +288,7 @@ int main()
 
 
     ///    MUSIC PLAYER
-    PlaySound(TEXT("Where-The-Waves-Take-Us.wav"), NULL, SND_LOOP || SND_ASYNC); /// playing music for game
+   // PlaySound(TEXT("Where-The-Waves-Take-Us.wav"), NULL, SND_LOOP || SND_ASYNC); /// playing music for game
     ///    MUSIC PLAYER ^
 
 
