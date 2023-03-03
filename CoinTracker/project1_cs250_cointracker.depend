@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1664468647 source:c:\users\codyr\desktop\project1_cs250_cointracker\coins.cpp
+	"coins.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1664468647 c:\users\codyr\desktop\project1_cs250_cointracker\coins.h
+	<string>
+	<iostream>
+
+1664468647 source:c:\users\codyr\desktop\project1_cs250_cointracker\main.cpp
+	<iostream>
+	"coins.h"
+	<fstream>
+	<ostream>
+
+1664465047 source:c:\users\codyr\desktop\games & designs & photos\personal coding projects\project1_cs250_cointracker\coins.cpp
+	"coins.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1664465047 c:\users\codyr\desktop\games & designs & photos\personal coding projects\project1_cs250_cointracker\coins.h
+	<string>
+	<iostream>
+
+1664465185 source:c:\users\codyr\desktop\games & designs & photos\personal coding projects\project1_cs250_cointracker\main.cpp
+	<iostream>
+	"coins.h"
+	<fstream>
+	<ostream>
+
