@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1676987356 source:c:\users\codyr\desktop\castle\src\troop.cpp
+	"troop.h"
+	<iostream>
+
+1676517420 c:\users\codyr\desktop\castle\include\troop.h
+
+1676987760 source:c:\users\codyr\desktop\castle\src\castle.cpp
+	"castle.h"
+	<random>
+	<ctime>
+
+1676987351 c:\users\codyr\desktop\castle\include\castle.h
+	"troop.h"
+	<list>
+	<iostream>
+
+1676987684 source:c:\users\codyr\desktop\castle\main.cpp
+	<iostream>
+	"troop.h"
+	"castle.h"
+	"Farm.h"
+	<string>
+	<list>
+	<fstream>
+	<iostream>
+	<random>
+	<ctime>
+
+1676981873 source:c:\users\codyr\desktop\castle\src\farm.cpp
+	"Farm.h"
+
+1676981873 c:\users\codyr\desktop\castle\include\farm.h
+	<iostream>
+
+1676981873 source:c:\users\codyr\desktop\games & designs & photos\castle\src\farm.cpp
+	"Farm.h"
+
+1676981873 c:\users\codyr\desktop\games & designs & photos\castle\include\farm.h
+	<iostream>
+
+1677168668 source:c:\users\codyr\desktop\games & designs & photos\castle\src\troop.cpp
+	"troop.h"
+	<iostream>
+
+1676517420 c:\users\codyr\desktop\games & designs & photos\castle\include\troop.h
+
+1677244016 source:c:\users\codyr\desktop\games & designs & photos\castle\main.cpp
+	<iostream>
+	"troop.h"
+	"castle.h"
+	"Farm.h"
+	<string>
+	<list>
+	<fstream>
+	<iostream>
+	<random>
+	<ctime>
+
+1677166907 c:\users\codyr\desktop\games & designs & photos\castle\include\castle.h
+	"troop.h"
+	<list>
+	<iostream>
+
+1677168668 source:c:\users\codyr\desktop\games & designs & photos\castle\src\castle.cpp
+	"castle.h"
+	<random>
+	<ctime>
+
+1677168668 source:c:\users\codyr\desktop\games & designs & photos\personal coding projects\finished projects\castle\src\castle.cpp
+	"castle.h"
+	<random>
+	<ctime>
+
+1677166907 c:\users\codyr\desktop\games & designs & photos\personal coding projects\finished projects\castle\include\castle.h
+	"troop.h"
+	<list>
+	<iostream>
+
+1676517420 c:\users\codyr\desktop\games & designs & photos\personal coding projects\finished projects\castle\include\troop.h
+
+1676981873 source:c:\users\codyr\desktop\games & designs & photos\personal coding projects\finished projects\castle\src\farm.cpp
+	"Farm.h"
+
+1676981873 c:\users\codyr\desktop\games & designs & photos\personal coding projects\finished projects\castle\include\farm.h
+	<iostream>
+
+1677168668 source:c:\users\codyr\desktop\games & designs & photos\personal coding projects\finished projects\castle\src\troop.cpp
+	"troop.h"
+	<iostream>
+
