@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1660321857 source:c:\users\codyr\desktop\gamblingprototype\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<fstream>
+	<cstdlib>
+	<time.h>
+
+1677066065 source:c:\users\codyr\desktop\games & designs & photos\personal coding projects\finished projects\gamblingprototype\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<fstream>
+	<cstdlib>
+	<time.h>
+
