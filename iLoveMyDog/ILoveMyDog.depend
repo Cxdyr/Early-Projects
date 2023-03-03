@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1676446591 source:c:\users\codyr\desktop\ilovemydog\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<ostream>
+	<list>
+	<random>
+	<ctime>
+	<windows.h>
+	<mmsystem.h>
+	"item.h"
+	"Bob.h"
+
+1676187897 source:c:\users\codyr\desktop\ilovemydog\src\item.cpp
+	"item.h"
+
+1676440004 c:\users\codyr\desktop\ilovemydog\include\item.h
+	<string>
+	<iostream>
+
+1676433451 source:c:\users\codyr\desktop\ilovemydog\src\bob.cpp
+	"Bob.h"
+
+1676273780 c:\users\codyr\desktop\ilovemydog\include\bob.h
+
+1676440004 source:c:\users\codyr\desktop\ilovemydog\src\troop.cpp
+	"troop.h"
+	<iostream>
+
+1676439223 c:\users\codyr\desktop\ilovemydog\include\troop.h
+
+1676440263 source:c:\users\codyr\desktop\ilovemydog\src\castle.cpp
+	"Castle.h"
+	<random>
+	<ctime>
+
+1676440004 c:\users\codyr\desktop\ilovemydog\include\castle.h
+	<troop.h>
+	<list>
+	<string>
+	<iostream>
+
+1676446591 source:c:\users\codyr\desktop\games & designs & photos\personal coding projects\finished projects\ilovemydog\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<ostream>
+	<list>
+	<random>
+	<ctime>
+	<windows.h>
+	<mmsystem.h>
+	"item.h"
+	"Bob.h"
+
+1676440004 c:\users\codyr\desktop\games & designs & photos\personal coding projects\finished projects\ilovemydog\include\item.h
+	<string>
+	<iostream>
+
+1676273780 c:\users\codyr\desktop\games & designs & photos\personal coding projects\finished projects\ilovemydog\include\bob.h
+
+1676433451 source:c:\users\codyr\desktop\games & designs & photos\personal coding projects\finished projects\ilovemydog\src\bob.cpp
+	"Bob.h"
+
+1676187897 source:c:\users\codyr\desktop\games & designs & photos\personal coding projects\finished projects\ilovemydog\src\item.cpp
+	"item.h"
+
