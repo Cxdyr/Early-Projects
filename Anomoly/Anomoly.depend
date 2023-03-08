@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1678310976 source:c:\users\codyr\desktop\anomoly\main.cpp
+	"ship.h"
+	<iostream>
+	<random>
+	<ctime>
+	<fstream>
+	<string>
+	<list>
+
+1678121507 source:c:\users\codyr\desktop\anomoly\src\ship.cpp
+	"ship.h"
+
+1678122985 c:\users\codyr\desktop\anomoly\include\ship.h
+
