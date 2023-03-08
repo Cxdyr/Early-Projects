@@ -18,3 +18,6 @@ acii art game that has various levels, basic piece of code but was a passion pro
 
 - CastleSimulator    (2/2023)
 castle that has data members troops, defense, etc. troops have hunger and health and must defend castle if castle falls.
+
+- Anomoly            (2/2023)
+ship that needs to dodge asteroids and collect gravitational anomolies while maintaining fuel and health
