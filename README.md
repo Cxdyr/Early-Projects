@@ -22,5 +22,5 @@ castle that has data members troops, defense, etc. troops have hunger and health
 - Anomoly            (3/2023)
 ship that needs to dodge asteroids and collect gravitational anomolies while maintaining fuel and health
 
--EncryptDiary        (3/2023)
+-EncryptDiary         (3/2023)
 program that allows user to easily encrpyt, decrypt, and write to a text file "diary".
