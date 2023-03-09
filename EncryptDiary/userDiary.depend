@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1678395859 source:c:\users\codyr\desktop\userdiary\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+	"endecode.h"
+
+1678395869 source:c:\users\codyr\desktop\userdiary\src\endecode.cpp
+	"endecode.h"
+
+1678395609 c:\users\codyr\desktop\userdiary\include\endecode.h
+	<string>
+	<iostream>
+	<fstream>
+	<ostream>
+
