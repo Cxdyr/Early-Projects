@@ -12,3 +12,7 @@ Read the top of main comments if any other questions arise, ascii art is mostly 
 refer to this video as well: https://www.youtube.com/watch?v=q3k_dqzbZuk&t=1072s&ab_channel=CodyRabie
 
 Thanks, enjoy if you play it or at least read the code.
+
+
+Note from 2024-   
+this code is very ugly but back then I hadn't learned anywhere near as much as I currently do - keeping it up for reference 
