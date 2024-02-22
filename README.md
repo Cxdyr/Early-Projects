@@ -1,5 +1,6 @@
 # Early-C-Projects
-This repository contains projects I worked on while learning fundamentals of C++
+This repository contains projects I worked on while learning fundamentals of C++. To view them clone this repository on your machine using either local or remote means and run each project from its main file in your IDE of choice.
+
 
 - GamblingMachine    (1/2022)   
 simulates a gambling casino
